@@ -1,0 +1,90 @@
+@-moz-document url-prefix("https://beta.packtpub.com/reader/book/application_development/") {
+    body, #content.standard {
+        background-color: #232323 !important;
+        color: #a7a7a7 !important;
+        font-size: 2.3rem !important;
+    }
+
+    .col {
+        background-color: #232323 !important;
+        color: #a7a7a7 !important;
+    }
+
+    .book-content h1, .book-content h2, .book-content h3, .book-content h4 {
+        color: #6e8273 !important;
+    }
+
+    .upsell-banner.alert-warning {
+        background: #515151;
+    }
+
+    .rhs .rhs-menu, .header-buttons, .download-container, .lhs button {
+        background-color: #4d4d4d !important;
+    }
+
+    .rhs {
+        background-color: #232323 !important;
+    }
+
+    .modal-content, .font-container, .book-content ul, pre[class*="language-"] > code {
+        background-color: #4d4d4d !important;
+        color: #a7a7a7 !important;
+    }
+
+    .playlist-list {
+        background-color: #666 !important;
+    }
+
+    .playlist-title, .book-title, .title, .price {
+        color: #a7a7a7 !important;
+    }
+
+    .header-buttons .acive {
+        color: #fff !important;
+    }
+
+    .book-container {
+        background-color: #454a55 !important;
+    }
+
+    .toc-container {
+        background-color: #24272e !important;
+    }
+
+    .note, div.code-toolbar > .toolbar button {
+        background-color: #34422e !important;
+        color: #a7a7a7 !important;
+    }
+
+    table, td, td p, pre {
+        background-color: #4d4d4d !important;
+        color: #aaa !important;
+    }
+
+    div.code-toolbar > .toolbar button {
+        width: 90px;
+        height: 27px;
+    }
+
+    code {
+        color: #4be83e;
+    }
+
+    pre[class*="language-"] > code {
+        border-top: 16px solid #4d4d4d !important;
+        border-bottom: 16px solid #4d4d4d !important;
+        background-image: linear-gradient(transparent 50%,#4d4d4d 0) !important;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
